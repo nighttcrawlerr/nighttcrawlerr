@@ -1,12 +1,6 @@
 <div align="center">
 
-<h1>Привет, я Ваня 👋</h1>
-
-<a href="https://github.com/nighttcrawlerr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=640&lines=Студент+ИВТ+в+НИТУ+МИСИС;Fullstack:+Next.js,+React,+FastAPI,+Node;Хакатоны+и+командные+проекты" alt="typing"/>
-</a>
-
-<br/>
+<h1>Hi, I'm Vanya 👋</h1>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nighttcrawlerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
 
@@ -14,19 +8,19 @@
 
 ---
 
-## 👋 Обо мне
+## 👋 About me
 
-- 🎓 Первый курс **ИВТ** в **НИТУ МИСИС**
-- 🛠️ Собираю продукты целиком: от базы и API до PWA и деплоя
-- 🏆 Участвую в хакатонах
-- 💬 Открыт к командам и стажировкам
+- 🎓 First-year Computer Science and Engineering student at **NUST MISIS**
+- 🛠️ I build products end to end: from database and API to PWA and deployment
+- 🏆 I take part in hackathons
+- 💬 Open to teams and internships
 
 ---
 
-## 🚀 Проекты
+## 🚀 Projects
 
 ### 🦷 [Dental Buro Clinic](https://github.com/nighttcrawlerr/Dental-Buro)
-Сайт стоматологической клиники: страницы услуг, форма заявки, админка для просмотра заявок.
+Website for a dental clinic: service pages, a request form and an admin panel for viewing requests.
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -37,7 +31,7 @@
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 
 ### 🎓 [HopeClass](https://github.com/nighttcrawlerr/HopeClass)
-Мультитенантный кабинет для репетиторов и школ: расписание, домашние задания, материалы, финансы, уведомления, роли преподавателя, ученика и родителя. Одна программа обслуживает много школ, у каждой своя база.
+Multi-tenant platform for tutors and schools: schedule, homework, materials, finances, notifications, and roles for teacher, student and parent. One app serves many schools, each with its own database.
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
@@ -47,10 +41,10 @@
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
-### 🤖 [SaluteAgent](https://github.com/nighttcrawlerr/ShortHack) · ShortHack × СберТех
-ИИ-помощник техподдержки с проверкой своих ответов на выдумки. Чат для пользователя и рабочее место оператора.
+### 🤖 [SaluteAgent](https://github.com/nighttcrawlerr/ShortHack) · ShortHack × SberTech
+AI tech-support assistant that fact-checks its own answers before sending them. Includes a user chat and an operator workspace.
 
-[![Live demo](https://img.shields.io/badge/Live_demo-открыть-2ea44f?style=flat-square)](http://93.77.186.72)
+[![Live demo](https://img.shields.io/badge/Live_demo-open-2ea44f?style=flat-square)](http://93.77.186.72)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
@@ -58,8 +52,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![YandexGPT](https://img.shields.io/badge/YandexGPT_5_Pro-FC3F1D?style=flat-square&logo=yandexcloud&logoColor=white)
 
-### 🏨 [О!дин шаг до идеального отеля](https://github.com/ostrovok-hackathon-2026/misis-who-is-os) · хакатон Островка
-Прототип, который находит в данных то, чего нет в карточках отелей: вид, тишину, пляж. Регион: Сочи и Красная Поляна.
+### 🏨 [One Step to the Perfect Hotel](https://github.com/ostrovok-hackathon-2026/misis-who-is-os) · Ostrovok hackathon
+Prototype that finds what hotel listings don't say: the view, the quiet, the beach. Region: Sochi and Krasnaya Polyana.
 
 ![Python](https://img.shields.io/badge/Python_3.12-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white)
@@ -72,7 +66,7 @@
 
 ---
 
-## 💻 Стек
+## 💻 Tech stack
 
 <div align="center">
 
@@ -82,7 +76,7 @@
 
 ---
 
-## 📊 GitHub в цифрах
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -91,7 +85,7 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Написать_в_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
+[![Telegram](https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2c5364,100:0f2027" width="100%" alt="footer"/>
 
