@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Vanya 👋</h1>
+<img src="assets/banner_full.jpg" width="100%" alt="banner"/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nighttcrawlerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
 
