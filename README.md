@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Привет,%20я%20Ваня&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=ИВТ%20·%20НИТУ%20МИСИС%20·%20fullstack&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="banner"/>
+<h1>Привет, я Ваня 👋</h1>
 
 <a href="https://github.com/nighttcrawlerr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=640&lines=Студент+ИВТ+в+НИТУ+МИСИС;Fullstack:+Next.js,+React,+FastAPI,+Node;Хакатоны+и+командные+проекты" alt="typing"/>
@@ -9,8 +9,6 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nighttcrawlerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
-[![Followers](https://img.shields.io/github/followers/nighttcrawlerr?style=for-the-badge&logo=github&color=24292e)](https://github.com/nighttcrawlerr?tab=followers)
-![Views](https://komarev.com/ghpvc/?username=nighttcrawlerr&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,7 +26,7 @@
 ## 🚀 Проекты
 
 ### 🦷 [Dental Buro Clinic](https://github.com/nighttcrawlerr/Dental-Buro)
-Многостраничный сайт стоматологической клиники с премиальным дизайном (кремовая палитра, бронзовый акцент, Cormorant Garamond). Заявки сохраняются в PostgreSQL на хостинге в РФ (152-ФЗ), в Telegram уходит уведомление без персональных данных, заявки смотрим в `/admin`.
+Сайт стоматологической клиники: страницы услуг, форма заявки, админка для просмотра заявок.
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -90,8 +88,6 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nighttcrawlerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nighttcrawlerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="langs"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nighttcrawlerr&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
 
 <br/>
 
