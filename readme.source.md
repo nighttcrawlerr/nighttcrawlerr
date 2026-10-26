@@ -356,5 +356,41 @@
 })()
 ```
 
+```aura width=120 height=44 link="https://github.com/nighttcrawlerr" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/github/ffffff"
+  text="GitHub"
+  backgroundColor="#141414"
+  width={120}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' },
+    { offset: '10%', color: '#111111' },
+    { offset: '50%', color: '#eeeeee' },
+    { offset: '60%', color: '#ffffff' },
+    { offset: '80%', color: '#111111' },
+    { offset: '100%', color: '#555555' },
+  ]}
+/>
+```
+
+```aura width=130 height=44 link="https://t.me/nighttcrawlerr" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/telegram/26A5E4"
+  text="Telegram"
+  backgroundColor="#0a2939"
+  width={130}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' },
+    { offset: '10%', color: '#111111' },
+    { offset: '50%', color: '#eeeeee' },
+    { offset: '60%', color: '#26A5E4' },
+    { offset: '80%', color: '#111111' },
+    { offset: '100%', color: '#555555' },
+  ]}
+/>
+```
+
 <br>
 <p align="center"><sub>𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 <a href="https://github.com/collectioneur/readme-aura">𝗋𝖾𝖺𝖽𝗆𝖾-𝖺𝗎𝗋𝖺</a></sub></p>
