@@ -2,6 +2,8 @@
 
 <img src="assets/banner.jpg" width="100%" alt="banner"/>
 
+<img src="https://raw.githubusercontent.com/nighttcrawlerr/nighttcrawlerr/output/snake-dark.svg" width="100%" alt="snake"/>
+
 [![Telegram](https://img.shields.io/badge/Telegram-@nighttcrawlerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
 
 </div>
