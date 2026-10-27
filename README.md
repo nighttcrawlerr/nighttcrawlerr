@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="banner"/>
+<img src="assets/banner.jpg" width="640" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Ivan+Tikhonov;Full-stack+developer;Go+%C2%B7+TypeScript+%C2%B7+Next.js;Hackathons+%C2%B7+NUST+MISIS" alt="typing"/>
-
-<img src="https://raw.githubusercontent.com/nighttcrawlerr/nighttcrawlerr/output/snake-dark.svg" width="100%" alt="snake"/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nighttcrawlerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
 
