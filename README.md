@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="640" alt="banner"/>
+<img src="assets/banner.gif" width="498" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Ivan+Tikhonov;Full-stack+developer;Go+%C2%B7+TypeScript+%C2%B7+Next.js;Hackathons+%C2%B7+NUST+MISIS" alt="typing"/>
 
@@ -72,7 +72,7 @@ Prototype that finds what hotel listings don't say: the view, the quiet, the bea
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,fastapi,tailwind,vite,postgres,sqlite,redis,prisma,docker,git,github,linux&theme=dark" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=go,cpp,ts,js,py,react,nextjs,nodejs,express,fastapi,tailwind,vite,postgres,sqlite,redis,prisma,docker,git,github,linux&theme=dark" alt="stack"/>
 
 </div>
 
