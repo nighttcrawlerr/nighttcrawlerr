@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner_full.jpg" width="100%" alt="banner"/>
+<img src="assets/banner.jpg" width="100%" alt="banner"/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nighttcrawlerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nighttcrawlerr)
 
